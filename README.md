@@ -1,5 +1,5 @@
 
-- In this repository, I store all the R-programs I have written for my PhD-thesis on adaptive group sequential designs with population-wise error rate control.
+- Here, I store all the R-programs I have written for my PhD-thesis on adaptive group sequential designs with population-wise error rate control.
 
 <!---
 chillner/chillner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
